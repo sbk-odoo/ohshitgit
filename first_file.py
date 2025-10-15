@@ -1,2 +1,2 @@
 def first_function():
-    return "This is the first function"
+    return "This is the first function. Thank you for your attention!"
